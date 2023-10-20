@@ -1,0 +1,1 @@
+#include "EResourceTypeV2.h"
