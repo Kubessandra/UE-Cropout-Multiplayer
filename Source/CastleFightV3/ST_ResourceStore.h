@@ -4,10 +4,10 @@
 
 #include "CoreMinimal.h"
 #include "EResourceTypeV2.h"
-#include "ST_ResourceQty.generated.h"
+#include "ST_ResourceStore.generated.h"
 
 USTRUCT(BlueprintType)
-struct FST_ResourceQty
+struct FST_ResourceStore
 {
 	GENERATED_BODY()
 
