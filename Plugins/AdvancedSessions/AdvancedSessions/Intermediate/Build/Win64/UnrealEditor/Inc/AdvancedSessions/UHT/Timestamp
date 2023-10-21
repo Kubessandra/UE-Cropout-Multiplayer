@@ -11,13 +11,13 @@ F:\UnrealEngine\CastleFightV3\Plugins\AdvancedSessions\AdvancedSessions\Source\A
 F:\UnrealEngine\CastleFightV3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
 F:\UnrealEngine\CastleFightV3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
 F:\UnrealEngine\CastleFightV3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
+F:\UnrealEngine\CastleFightV3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
 F:\UnrealEngine\CastleFightV3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
 F:\UnrealEngine\CastleFightV3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
 F:\UnrealEngine\CastleFightV3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
 F:\UnrealEngine\CastleFightV3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
 F:\UnrealEngine\CastleFightV3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
 F:\UnrealEngine\CastleFightV3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
-F:\UnrealEngine\CastleFightV3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
 F:\UnrealEngine\CastleFightV3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
 F:\UnrealEngine\CastleFightV3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\StartSessionCallbackProxyAdvanced.h
 F:\UnrealEngine\CastleFightV3\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
