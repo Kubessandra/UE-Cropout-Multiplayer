@@ -60,8 +60,8 @@
 		"UI Icon": "/Game/UI/Materials/Textures/T_Monument_DA.T_Monument_DA",
 		"Cost":
 		{
-			"Stone": 500,
-			"Wood": 500
+			"Stone": 5,
+			"Wood": 5
 		},
 		"Tab Col":
 		{
