@@ -13,4 +13,15 @@ struct FST_ResourceStore
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Resource")
 	TMap<EResourceTypeV2, int32> Resources;
+
+	bool NetSerialize(FArchive& Ar, class UPackageMap* Map, bool& bOutSuccess);
+};
+
+template<>
+struct TStructOpsTypeTraits<FST_ResourceStore> : public TStructOpsTypeTraitsBase2<FST_ResourceStore>
+{
+	enum
+	{
+		WithNetSerializer = true
+	};
 };

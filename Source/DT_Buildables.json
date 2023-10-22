@@ -1,0 +1,146 @@
+[
+	{
+		"Name": "Shrub",
+		"Title": "NSLOCTEXT(\"[82382D84499C4463C975E5A1199BCE50]\", \"FC9D46C043391F95CBFE22AB06D4BD3E\", \"Shrub\")",
+		"Target Class": "/Game/Blueprint/Interactable/Resources/BP_Shrub.BP_Shrub_C",
+		"UI Icon": "/Game/UI/Materials/Textures/T_Shrub_DA.T_Shrub_DA",
+		"Cost":
+		{
+			"Food": 5,
+			"Wood": 2
+		},
+		"Tab Col":
+		{
+			"B": 65,
+			"G": 168,
+			"R": 104,
+			"A": 204
+		}
+	},
+	{
+		"Name": "Tree",
+		"Title": "NSLOCTEXT(\"[82382D84499C4463C975E5A1199BCE50]\", \"94B607BD4353F32A273185875FA7C154\", \"Tree\")",
+		"Target Class": "/Game/Blueprint/Interactable/Resources/BP_Tree.BP_Tree_C",
+		"UI Icon": "/Game/UI/Materials/Textures/T_Tree_DA.T_Tree_DA",
+		"Cost":
+		{
+			"Food": 2,
+			"Wood": 5
+		},
+		"Tab Col":
+		{
+			"B": 65,
+			"G": 168,
+			"R": 104,
+			"A": 204
+		}
+	},
+	{
+		"Name": "House",
+		"Title": "NSLOCTEXT(\"[82382D84499C4463C975E5A1199BCE50]\", \"E720EE004B523B31B6415C9D337FCE56\", \"House\")",
+		"Target Class": "/Game/Blueprint/Interactable/Building/BPC_House.BPC_House_C",
+		"UI Icon": "/Game/UI/Materials/Textures/T_House_DA.T_House_DA",
+		"Cost":
+		{
+			"Wood": 50,
+			"Stone": 5
+		},
+		"Tab Col":
+		{
+			"B": 168,
+			"G": 136,
+			"R": 65,
+			"A": 204
+		}
+	},
+	{
+		"Name": "EndGame",
+		"Title": "NSLOCTEXT(\"[82382D84499C4463C975E5A1199BCE50]\", \"43EAA59141DA73791B60A08577B03EC1\", \"Monument\")",
+		"Target Class": "/Game/Blueprint/Interactable/Building/BPC_EndGame.BPC_EndGame_C",
+		"UI Icon": "/Game/UI/Materials/Textures/T_Monument_DA.T_Monument_DA",
+		"Cost":
+		{
+			"Stone": 500,
+			"Wood": 500
+		},
+		"Tab Col":
+		{
+			"B": 168,
+			"G": 136,
+			"R": 65,
+			"A": 204
+		}
+	},
+	{
+		"Name": "Field_Corn",
+		"Title": "NSLOCTEXT(\"[82382D84499C4463C975E5A1199BCE50]\", \"8D6A8A89447325B9F471329DB6B23910\", \"Corn Field\")",
+		"Target Class": "/Game/Blueprint/Interactable/Resources/BP_Crop_Corn.BP_Crop_Corn_C",
+		"UI Icon": "/Game/UI/Materials/Textures/T_Crop_Corn_DA.T_Crop_Corn_DA",
+		"Cost":
+		{
+			"Food": 10,
+			"Wood": 10
+		},
+		"Tab Col":
+		{
+			"B": 65,
+			"G": 133,
+			"R": 168,
+			"A": 204
+		}
+	},
+	{
+		"Name": "Field_Wheat",
+		"Title": "NSLOCTEXT(\"[82382D84499C4463C975E5A1199BCE50]\", \"F23BF87B465AA95C430CEFBFD0FCBAA6\", \"Wheat Field\")",
+		"Target Class": "/Game/Blueprint/Interactable/Resources/BP_Crop_Wheat.BP_Crop_Wheat_C",
+		"UI Icon": "/Game/UI/Materials/Textures/T_Crop_Wheat_DA.T_Crop_Wheat_DA",
+		"Cost":
+		{
+			"Food": 10,
+			"Wood": 10
+		},
+		"Tab Col":
+		{
+			"B": 65,
+			"G": 133,
+			"R": 168,
+			"A": 204
+		}
+	},
+	{
+		"Name": "Field_Lettuce",
+		"Title": "NSLOCTEXT(\"[82382D84499C4463C975E5A1199BCE50]\", \"A469898545C2AA6DB87D279E02731370\", \"Lettuce Field\")",
+		"Target Class": "/Game/Blueprint/Interactable/Resources/BP_Crop_Lettuce.BP_Crop_Lettuce_C",
+		"UI Icon": "/Game/UI/Materials/Textures/T_Crop_Lettuce_DA.T_Crop_Lettuce_DA",
+		"Cost":
+		{
+			"Food": 10,
+			"Wood": 10
+		},
+		"Tab Col":
+		{
+			"B": 65,
+			"G": 133,
+			"R": 168,
+			"A": 204
+		}
+	},
+	{
+		"Name": "Field_Pumpkin",
+		"Title": "NSLOCTEXT(\"[82382D84499C4463C975E5A1199BCE50]\", \"E3566DB4465CB5406E9A48B91B361067\", \"Pumpkin Field\")",
+		"Target Class": "/Game/Blueprint/Interactable/Resources/BP_Crop_Pumpkin.BP_Crop_Pumpkin_C",
+		"UI Icon": "/Game/UI/Materials/Textures/T_Crop_Pumpkin_DA.T_Crop_Pumpkin_DA",
+		"Cost":
+		{
+			"Food": 10,
+			"Wood": 10
+		},
+		"Tab Col":
+		{
+			"B": 65,
+			"G": 133,
+			"R": 168,
+			"A": 204
+		}
+	}
+]
