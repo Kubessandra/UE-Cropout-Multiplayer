@@ -1,6 +1,6 @@
 # Cropout Multiplayer
 
-[2023-10-23-13-36-48.webm](https://github.com/Kubessandra/UE-Cropout-Multiplayer/assets/38230596/c497332a-9f2d-4b1c-ab75-95f483932a47)
+[Demo Cropout Multiplayer](https://github.com/Kubessandra/UE-Cropout-Multiplayer/assets/38230596/e7a69e13-d1b8-4429-8e36-021761c19fe7)
 
 Full multiplayer compatibility with Steam of the [Cropout Sample](https://www.unrealengine.com/marketplace/en-US/product/cropout-sample-project) of Unreal Engine
 Using Blueprints and C++ only for some structs.
