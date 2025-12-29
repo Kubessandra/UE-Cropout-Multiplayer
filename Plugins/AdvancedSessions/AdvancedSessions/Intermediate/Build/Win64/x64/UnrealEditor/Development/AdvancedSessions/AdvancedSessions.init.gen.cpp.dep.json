@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\samri\\onedrive\\belgeler\\unreal projects\\tallenoughmp\\tall_enough\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedsessions\\uht\\advancedsessions.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\samri\\onedrive\\belgeler\\unreal projects\\tallenoughmp\\tall_enough\\intermediate\\build\\win64\\x64\\castlefightv3editor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\samri\\onedrive\\belgeler\\unreal projects\\tallenoughmp\\tall_enough\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\advancedsessions\\definitions.advancedsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

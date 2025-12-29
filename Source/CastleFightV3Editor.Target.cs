@@ -8,7 +8,7 @@ public class CastleFightV3EditorTarget : TargetRules
 	public CastleFightV3EditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V4;
+		DefaultBuildSettings = BuildSettingsVersion.V2;
 
 		ExtraModuleNames.AddRange( new string[] { "CastleFightV3" } );
 	}

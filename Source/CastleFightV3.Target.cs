@@ -8,7 +8,7 @@ public class CastleFightV3Target : TargetRules
 	public CastleFightV3Target(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
-		DefaultBuildSettings = BuildSettingsVersion.V4;
+		DefaultBuildSettings = BuildSettingsVersion.V2;
 
 		ExtraModuleNames.AddRange( new string[] { "CastleFightV3" } );
 	}

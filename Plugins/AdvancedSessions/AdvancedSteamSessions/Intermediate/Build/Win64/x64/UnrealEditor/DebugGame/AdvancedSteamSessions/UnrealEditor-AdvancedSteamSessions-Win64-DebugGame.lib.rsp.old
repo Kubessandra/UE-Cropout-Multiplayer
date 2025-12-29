@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AdvancedSteamSessions-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Eren\Documents\GitHub\Tall_Enough\Intermediate\Build\Win64\x64\CastleFightV3Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp17.InclOrderUnreal5_0.h.obj"
+"C:\Users\Eren\Documents\GitHub\Tall_Enough\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"C:\Users\Eren\Documents\GitHub\Tall_Enough\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"C:\Users\Eren\Documents\GitHub\Tall_Enough\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions-Win64-DebugGame.lib"

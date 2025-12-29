@@ -10,7 +10,10 @@ enum class EResourceTypeV2 : uint8 {
 	None,
 	Food,
 	Wood,
-	Stone
+	Stone,
+	Iron,
+	IronIngot
+	
 };
 
-ENUM_RANGE_BY_FIRST_AND_LAST(EResourceTypeV2, EResourceTypeV2::None, EResourceTypeV2::Stone);
+ENUM_RANGE_BY_FIRST_AND_LAST(EResourceTypeV2, EResourceTypeV2::None, EResourceTypeV2::IronIngot);
